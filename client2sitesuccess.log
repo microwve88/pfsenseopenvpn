@@ -1,0 +1,16 @@
+ 12:29:14 2018 OpenVPN 2.4.4 x86_64-w64-mingw32 [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on Sep 26 2017
+Wed Jun 27 12:29:14 2018 Windows version 6.2 (Windows 8 or greater) 64bit
+Wed Jun 27 12:29:14 2018 library versions: OpenSSL 1.0.2l  25 May 2017, LZO 2.10
+Enter Management Password:
+Wed Jun 27 12:29:16 2018 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
+Wed Jun 27 12:29:16 2018 TCP/UDP: Preserving recently used remote address: [AF_INET]103.199.7.12:1194
+Wed Jun 27 12:29:16 2018 UDP link local (bound): [AF_INET][undef]:0
+Wed Jun 27 12:29:16 2018 UDP link remote: [AF_INET]103.199.7.12:1194
+Wed Jun 27 12:29:21 2018 [bthecuong.tma.com.vn] Peer Connection Initiated with [AF_INET]103.199.7.12:1194
+Wed Jun 27 12:29:22 2018 open_tun
+Wed Jun 27 12:29:22 2018 TAP-WIN32 device [Ethernet 7] opened: \\.\Global\{E5E3FD02-2E3D-4F31-8E5C-0D188649438A}.tap
+Wed Jun 27 12:29:22 2018 Set TAP-Windows TUN subnet mode network/local/netmask = 10.0.1.0/10.0.1.2/255.255.255.0 [SUCCEEDED]
+Wed Jun 27 12:29:22 2018 Notified TAP-Windows driver to set a DHCP IP/netmask of 10.0.1.2/255.255.255.0 on interface {E5E3FD02-2E3D-4F31-8E5C-0D188649438A} [DHCP-serv: 10.0.1.254, lease-time: 31536000]
+Wed Jun 27 12:29:22 2018 Successful ARP Flush on interface [61] {E5E3FD02-2E3D-4F31-8E5C-0D188649438A}
+Wed Jun 27 12:29:22 2018 do_ifconfig, tt->did_ifconfig_ipv6_setup=0
+Wed Jun 27 12:29:27 2018 Initialization Sequence Completed
